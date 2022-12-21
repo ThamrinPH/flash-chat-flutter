@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flash_chat/components/rounded_button.dart';
 import 'package:flash_chat/constants.dart';
+import 'firebase_';
 
 class RegistrationScreen extends StatefulWidget {
   static String id = 'registration_screen';
